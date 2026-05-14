@@ -1,13 +1,17 @@
-# SerenAI
+# SerenAI 🌿
 
-SerenAI is an intelligent application designed to provide AI-driven insights and support. This project is developed as part of the final year submission for Plymouth University.
+SerenAI is an innovative AI-powered application developed for personal wellbeing and mental health support. This project leverages machine learning to provide intelligent insights and personalized user experiences.
 
-## Project Structure
+**Author:** Uwani Keshara  
+**University:** University of Plymouth  
+**Project Type:** Final Year Project (FYP)
 
-- **app/**: Flutter mobile application.
-- **backend/**: Backend services and database schemas.
-- **ml/**: Machine learning models and training scripts.
+---
 
-## Getting Started
+## 📂 Project Overview
 
-Detailed instructions will be added in subsequent updates.
+SerenAI integrates multiple technologies to create a seamless user experience:
+- **Mobile App**: Built with Flutter for cross-platform availability.
+- **Machine Learning**: Custom models for sentiment analysis and pattern recognition.
+- **Backend**: Scalable architecture for data management and secure processing.
+
