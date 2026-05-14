@@ -1,4 +1,4 @@
-﻿# SerenAI 🌿
+# SerenAI 🌿 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 SerenAI is an innovative AI-powered application developed for personal wellbeing and mental health support. This project leverages machine learning to provide intelligent insights and personalized user experiences.
 
