@@ -58,17 +58,3 @@ Follow these steps to set up the project locally.
 - **ML Engine**: TensorFlow, Scikit-learn
 - **Database**: SQL, Python
 
----
-
-## 🎓 Viva Preparation
-
-This repository contains all the necessary components for the final project demonstration:
-- **Key Features**: Real-time emotion detection, personalized wellbeing content, and progress tracking.
-- **ML Methodology**: Transfer learning using MobileNetV2 for efficient real-time inference on mobile devices.
-
-## 🤝 Acknowledgments
-- **University of Plymouth**, School of Engineering, Computing and Mathematics.
-
----
-
-*This project is submitted in partial fulfillment of the requirements for the degree of BSc (Hons) Computing at the University of Plymouth.*
